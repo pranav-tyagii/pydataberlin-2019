@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pranav/Downloads/pydataberlin-2019/mlruns/0/ec0c17fac777470aa2343450f590f3ec/artifacts
+end_time: 1746359706531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec0c17fac777470aa2343450f590f3ec
+run_name: ''
+run_uuid: ec0c17fac777470aa2343450f590f3ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746359365108
+status: 3
+tags: []
+user_id: pranav

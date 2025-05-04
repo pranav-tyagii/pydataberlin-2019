@@ -1,7 +1,7 @@
-name: conda_tutorial
+name: conda_tutorial #name your project 
 
 conda_env:
-   conda.yaml
+   conda.yaml #name the file yaml
 
 entry_points:
   main:
@@ -9,3 +9,4 @@ entry_points:
       alpha: float
       l1_ratio: {type: float, default: 0.1}
     command: "python train.py {alpha} {l1_ratio}"
+    # we should write the scipts so that we can run the exp as the project
