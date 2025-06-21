@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/749172083641006654/3483a0ac19164a53b934d9b48178bd4b/artifacts
+end_time: 1746420132658
+entry_point_name: ''
+experiment_id: '749172083641006654'
+lifecycle_stage: active
+run_id: 3483a0ac19164a53b934d9b48178bd4b
+run_name: bald-donkey-315
+run_uuid: 3483a0ac19164a53b934d9b48178bd4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746420125565
+status: 3
+tags: []
+user_id: pranav
